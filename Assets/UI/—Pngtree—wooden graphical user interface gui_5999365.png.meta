@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 7b7745ff31a798d4a9b1ef8e67fe8ecf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7343823487123165295
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_0"
+  - first:
+      213: 5413572671021385270
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_1"
+  - first:
+      213: -340388411954354813
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_2"
+  - first:
+      213: 1957172904049317363
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_3"
+  - first:
+      213: 4006419011498548955
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_4"
+  - first:
+      213: -5715645567382830394
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_5"
+  - first:
+      213: -6910323988847847502
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_6"
+  - first:
+      213: -5335193442500444262
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_7"
+  - first:
+      213: 1340559752979639385
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_8"
+  - first:
+      213: -3066958105496975550
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_9"
+  - first:
+      213: 1188848934203437377
+    second: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_0"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 783
+        width: 263
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6095236d808ae560800000000000000
+      internalID: 7343823487123165295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_1"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 407
+        width: 865
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6360ef579afd02b40800000000000000
+      internalID: 5413572671021385270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_2"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 620
+        width: 263
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3852dc3fa82b64bf0800000000000000
+      internalID: -340388411954354813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_3"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 457
+        width: 263
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f511edf266492b10800000000000000
+      internalID: 1957172904049317363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_4"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 214
+        width: 135
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1eb13dd8a99730800000000000000
+      internalID: 4006419011498548955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_5"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 212
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c24c16a3a2fda0b0800000000000000
+      internalID: -5715645567382830394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_6"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 212
+        width: 151
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b71dd1d1f89910a0800000000000000
+      internalID: -6910323988847847502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_7"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 212
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f74c3c4d595f5b0800000000000000
+      internalID: -5335193442500444262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_8"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 212
+        width: 151
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c69842eff9a9210800000000000000
+      internalID: 1340559752979639385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_9"
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 212
+        width: 150
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24709dc3ad9ff65d0800000000000000
+      internalID: -3066958105496975550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_10"
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 214
+        width: 136
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1413cce8ec3af7010800000000000000
+      internalID: 1188848934203437377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_0": 7343823487123165295
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_1": 5413572671021385270
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_10": 1188848934203437377
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_2": -340388411954354813
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_3": 1957172904049317363
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_4": 4006419011498548955
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_5": -5715645567382830394
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_6": -6910323988847847502
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_7": -5335193442500444262
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_8": 1340559752979639385
+      "\u2014Pngtree\u2014wooden graphical user interface gui_5999365_9": -3066958105496975550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
