@@ -91,7 +91,7 @@ public class Animal : Vocabulary
 
     public override async void pronounce()
     {
-        // ĐÃ XÓA DÒNG TÌM LOA MUSIC Ở ĐÂY ĐỂ TRÁNH XUNG ĐỘT
+        
 
         try
         {
